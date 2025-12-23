@@ -381,12 +381,6 @@ shadow-ledger-system/
 └── README.md               # This file
 ```
 
-## Documentation
-
-- **[API Specifications](api-specs.yaml)** - OpenAPI 3.0 documentation
-- **[Ordering Rules](ordering-rules.md)** - Event ordering and idempotency
-- **[Correction Strategy](correction-strategy.md)** - Drift detection and correction
-- **[AWS Deployment](aws-deployment.md)** - Cloud deployment guide
 
 
 
